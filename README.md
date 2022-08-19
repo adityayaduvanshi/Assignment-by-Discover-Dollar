@@ -1,4 +1,4 @@
-# Assignment-by-Discover-Dollar
+# MultiLevel DropDown
 A home page for a shopping website with an expandable list of product categories & subcategories. It is assignment given by Discover Dollar.
 
 ## Demo Link
